@@ -41,7 +41,8 @@ The text the model reads.
   of a user's photo), setting images, character, animal and model sheets, frame shape words, the safety pre-check.
 - `social/`: Facebook captions, link and trend analysts.
 - `autopilot/`: the Facebook Page autopilot (planner, writers, marketing team, music pick, brief lines).
-- `genres/`: reserved for the genre skills (later).
+- `genres/`: the genres (one `genres/<key>/SKILL.md` each, found by listing the folder), their skills (router and
+  modules) and the guide around them; see `genres/README.md`.
 - `ad/`: Ad Studio's skills (storyboard, shot prompt, the two "Tối ưu prompt" optimizers, one `formats/<id>/` per
   video type with its `styles.md`); see `ad/README.md`. Ad Studio has its own loader: no `{{> path}}` includes there,
   and unknown `{{key}}` stay as they are.
