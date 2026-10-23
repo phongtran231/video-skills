@@ -36,7 +36,9 @@ The text the model reads.
 - `film/`: the short-film pipeline: crew members (director, screenwriter, supervisor, cinematographer, gaffer, sound,
   extras, safety reviewer, prompt writer, frame fit), writers (screenplay, scene planner, idea optimizer, idea logic,
   series editor, beats), series rules, the Vietnamese dialogue editor, clip check, safety rewrite and music brief.
-- `characters/`: identity lines, voices and one design skill per art-style preset (`design-<preset>`).
+- `characters/`: identity lines, voices and one design skill per art-style preset (`design-<preset>`), the extra views and outfit pictures drawn from a main image.
+- `images/`: what every still image is told to draw: character and prop references (framing, age line, clean-up
+  of a user's photo), setting images, character, animal and model sheets, frame shape words, the safety pre-check.
 - `social/`: Facebook captions, link and trend analysts.
 - `autopilot/`: the Facebook Page autopilot (planner, writers, marketing team, music pick, brief lines).
 - `genres/`, `ad/`: reserved for the genre skills and Ad Studio's skills (later).
