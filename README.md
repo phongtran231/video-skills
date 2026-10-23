@@ -41,7 +41,10 @@ The text the model reads.
   of a user's photo), setting images, character, animal and model sheets, frame shape words, the safety pre-check.
 - `social/`: Facebook captions, link and trend analysts.
 - `autopilot/`: the Facebook Page autopilot (planner, writers, marketing team, music pick, brief lines).
-- `genres/`, `ad/`: reserved for the genre skills and Ad Studio's skills (later).
+- `genres/`: reserved for the genre skills (later).
+- `ad/`: Ad Studio's skills (storyboard, shot prompt, the two "Tối ưu prompt" optimizers, one `formats/<id>/` per
+  video type with its `styles.md`); see `ad/README.md`. Ad Studio has its own loader: no `{{> path}}` includes there,
+  and unknown `{{key}}` stay as they are.
 
 ## How the apps pull it
 
@@ -56,6 +59,9 @@ SKILLS_SOURCE=../video-skills pnpm skills:pull     # a local checkout, for devel
 The API reads `SKILLS_DIR` (default `skills/` in its working directory), loads every skill it uses at boot and stops
 with a clear message if one is missing. CI pulls before it builds and ships `skills/` inside the release, so the
 server needs no access to this repo.
+
+Ad Studio (`ad-video-test`) does the same with its own `skills.lock`: `npm run skills:pull` checks the ref out into
+`.skills/` and the app reads `.skills/ad` (`SKILLS_SOURCE=../video-skills npm run skills:pull` links a checkout).
 
 ## Versioning
 
