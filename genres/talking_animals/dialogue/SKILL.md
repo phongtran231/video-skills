@@ -6,7 +6,7 @@ kind: fragment
 
 # Module: Dialogue
 
-- Short lines (2-10 words), each in the speaker's own voice and personality: the dog warm and eager, the cat dry and smug, the old woman gentle and slow.
+- Short lines (2-10 words), each in the speaker's own voice and personality: the dog warm and eager, the cat dry and smug, the old woman warm and soft, at the pace people talk.
 - Caring films: few lines, simple and tender ("Eat, Grandma. It's warm."). Saving films: urgent short calls ("Help! Over here!"). Bickering films: quick banter, comebacks, a running catchphrase.
-- Animal sounds may punctuate (a woof, a meow, a purr) between words; never instead of the line that tells the story.
+- Animal sounds (a woof, a meow, a purr, a moo) come in a beat with no line, never between the words of a line, tied to its end or instead of the line that tells the story.
 - One line per beat, said in the beat it sits in; the listener reacts with ears, eyes and tail.

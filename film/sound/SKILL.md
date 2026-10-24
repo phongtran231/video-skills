@@ -30,6 +30,7 @@ The scene's ambience plays under every shot, except one whose audio opens with "
 - Concrete physical sounds in English, a few words each; no adjectives about feelings, no "violent" or "savage" even for wind (a hard gust).
 - Quiet is a sound: "near silence: only the clock ticking" is valid.
 - No breathing, sighs, gasps, panting, exhales or sniffs in any line: the video model plays them loud over the scene, and a film came out full of sighs. The body's sounds are footsteps, cloth, a cup set down, a door.
+- Nothing tied to a spoken line: no hum, laugh, chuckle, purr or moo "after the line" or under it (the model then adds it to every line the speaker says). A voice sound the story needs (a woof, a purr, a laugh) has its own time, in a moment with no line.
 - Return exactly one ambience entry for every scene and one effects entry for every shot.
 
 {{> shared/crew-wording-rules}}

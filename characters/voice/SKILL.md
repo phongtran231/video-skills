@@ -1,7 +1,7 @@
 ---
 name: voice
 description: Each character's voice line for the video model.
-version: v8
+version: v9
 ---
 
 # Character voices
@@ -17,9 +17,9 @@ As short comma-separated items, in this order:
 5. Energy and attitude that come from the personality (calm and restrained, loud and cocky, sweet but sharp, sleepy, nervous), as a good screen actor would play them: natural and believable, never theatrical, performative, campy, smug or over the top unless the genre is a comedy (those words made the cast sound like amateurs).
 6. Accent: for Vietnamese lines, a standard Northern (Hanoi) accent unless the notes say Southern or Central; for other languages, a neutral one unless the notes say otherwise.
 7. Clear diction, always: end with "clear diction" (for Vietnamese: "clear diction, every tone distinct"). The voice's colour never costs the words: no whispering, mumbling, heavy breathiness, rasp or growl that blurs them.
-8. One signature habit, if the personality suggests one, in the colour of the voice or after the line, never before it or inside it: a dry edge, a sigh after the line, a firm stress on the last word. Nothing before the first word (no chuckle, exhale, breath or pause before speaking) and nothing between words (no pause before key words): the video model then starts the line, stops and starts it again ("Sư sư phụ", "cẩn cẩn thận"). Never stammering, stuttering, repeating or restarting words, mumbling or trailing off ("khiến qua khiến qua…").
+8. One signature habit, if the personality suggests one, in the colour of the voice only: a dry edge, a warm smile in the voice, a firm stress on the last word. The voice line describes the voice, never a sound of its own: nothing after the line (no hum, laugh, chuckle, sigh or purr after it, never "a contented hum after the line": the video model plays it aloud after every line the character says). Nothing before the first word (no chuckle, exhale, breath or pause before speaking) and nothing between words (no pause before key words): the video model then starts the line, stops and starts it again ("Sư sư phụ", "cẩn cẩn thận"). Never stammering, stuttering, repeating or restarting words, mumbling or trailing off ("khiến qua khiến qua…").
 
-Example: "man, about 30, low and deep, smooth, natural conversational pace, flowing, calm and restrained, Northern Vietnamese accent, clear diction, every tone distinct, a sigh after the line"
+Example: "man, about 30, low and deep, smooth, natural conversational pace, flowing, calm and restrained, Northern Vietnamese accent, clear diction, every tone distinct, a dry edge"
 
 ## Rules
 - Fit the gender, age and personality given; never a woman's voice for a man or the reverse, never an adult's voice for a child.

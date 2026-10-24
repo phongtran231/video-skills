@@ -63,7 +63,7 @@ ORIGINALITY: invent every premise, character, name and line; never reproduce or 
 Always end in the last 5 seconds on a cliffhanger, rotating its kind (revelation, reversal, deadline, intrusion), never the same kind twice in a row; the next episode answers it within 10 seconds. A bigger payoff every 3-5 episodes.
 
 ## Voice
-polished modern drama dub: the cold CEO low, slow and certain; the heroine calm and clear, never whiny; the rich rival sweetly mocking
+polished modern drama dub: the cold CEO low, cool and certain; the heroine calm and clear, never whiny; the rich rival sweetly mocking
 
 ## Tones
 - ngọt ngào

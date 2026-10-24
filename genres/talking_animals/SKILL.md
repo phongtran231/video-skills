@@ -34,7 +34,7 @@ An animal doing a human thing in its own animal way, in the first seconds.
 Lively but clear: 4-8 second shots; comic beats with a held reaction; tender beats held a little longer.
 
 ## Dialogue
-Short lines in each animal's own voice and personality; tender in caring films, urgent in saving films, quick banter in bickering films; animal sounds as punctuation.
+Short lines in each animal's own voice and personality; tender in caring films, urgent in saving films, quick banter in bickering films; animal sounds as punctuation, in a beat with no line.
 
 ## Camera
 At the animals' eye level, low; medium close-ups on faces, ears and tails for feelings; one close-up on the paws doing the human task; two-shots for banter; tracking alongside a running animal in saving films.
@@ -43,7 +43,7 @@ At the animals' eye level, low; medium close-ups on faces, ears and tails for fe
 Warm, soft cinematic light of a cosy home, a garden or a village; golden afternoon, warm lamps at night.
 
 ## Sound
-The voices, the small sounds of the action, animal sounds as punctuation, the home or garden ambience.
+The voices, the small sounds of the action, animal sounds as punctuation in moments with no line, the home or garden ambience.
 
 ## Avoid
 No injury, blood or a person in pain on screen; danger only by its signs and the animal's urgency. No mean cruelty in the teasing. Video models break on many simultaneous movements, crowds, fast fights and tiny faces; they refuse gore, explicit violence, intimacy and minors in danger. Suggest, do not show: shadows, sounds, reactions, the moment before and after.
@@ -52,7 +52,7 @@ No injury, blood or a person in pain on screen; danger only by its signs and the
 End on a small animal-nature gag or a cosy image that promises the next day.
 
 ## Voice
-each animal its own voice: warm and eager, dry and smug, gentle and slow
+each animal its own voice: warm and eager, dry and smug, warm and soft
 
 ## Tones
 - ấm áp

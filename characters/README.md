@@ -24,6 +24,7 @@ Voice history:
 - v6: no tight throat, tremble or breathiness either; nerves are in the attitude, never a broken voice.
 - v7: a screen actor's voice, never a performance of one ("theatrically seductive" made the cast sound like amateurs).
 - v8: a natural conversational pace ("slow and measured" voices talked like children reading aloud).
+- v9: the voice only, no sound of its own ("a sigh after the line" and "a contented hum after the line" were played after every line).
 
 Design history:
 - cartoon_3d v2: v1's "ugly-cute" came out scary (realistic skin, scars, bolts, spindly limbs): soft and lovable now.
