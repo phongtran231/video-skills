@@ -17,6 +17,8 @@ The prompts the AI follows, as plain Markdown. Edit a file and the next video us
 - `optimize-clip/SKILL.md`: "Tối ưu prompt" on Tạo: a rough idea -> a prompt for one picture or one clip (Veo layout), with
   the first/last frame and the [ảnh n] references shown to the AI.
 - `optimize-prompt/SKILL.md`: turns the user's rough prompt (or nothing) plus the product into a strong initial prompt.
+- In both optimize skills the text before the first `## ` is the system prompt; the `## …` sections below it are the
+  parts the code puts together (the mode's rules, the style note, the labels above each photo, the user's message).
 
 Placeholders filled by the code: `{{duration}}`, `{{min_shot_s}}`, `{{max_shot_s}}`, `{{min_shots}}`, `{{language}}`,
 `{{transitions}}`, `{{director}}`, `{{structure}}`, `{{voiceover}}`, `{{format_label}}`, `{{prompt_guide}}`, `{{prompt_examples}}`.

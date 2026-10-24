@@ -24,3 +24,41 @@ How to write it:
 - Write it in {{language}}, like the examples.
 
 Reply with JSON only: {"prompt": "the prompt"}
+
+## Default guide
+- What to show, for whom, in what setting and mood.
+
+## No examples
+(none)
+
+## Style
+The chosen style: "{{label}}" ({{description}}). {{direction}} Presenter's delivery: {{voice}}.
+
+## Lookbook style fan
+The chosen style: "{{label}}" ({{description}}). Top-down view, she lies on a rug under a ceiling fan.
+
+## Lookbook style cut
+The chosen style: "{{label}}" ({{description}}). Place: {{scene}}. Frame: {{framing}}. Her base pose: {{pose}}.
+
+## Seller prompt
+The seller's prompt (improve it):
+{{prompt}}
+
+## Seller prompt empty
+The seller's prompt: (empty: write one)
+
+## Product
+Product: {{name}}
+
+## Product info
+Product info:
+{{info}}
+
+## Photo product
+THE PRODUCT (describe it exactly as pictured):
+
+## Photo model
+THE MODEL (this person is in the video):
+
+## Photo setting
+THE LOCATION (film here):
